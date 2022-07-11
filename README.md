@@ -2,7 +2,7 @@
 
 Task 1: Setup and Imports
 
-Task 2: Importing Data
+Task 2: Importing Data - https://github.com/dair-ai/emotion_dataset
 
 Task 3: Tokenizer
 
