@@ -1,19 +1,17 @@
 # Tweet-Emotion-recognition-with-Tensorflow
 
-Task 1: Introduction
+Task 1: Setup and Imports
 
-Task 2: Setup and Imports
+Task 2: Importing Data
 
-Task 3: Importing Data
+Task 3: Tokenizer
 
-Task 4: Tokenizer
+Task 4: Padding and Truncating Sequences
 
-Task 5: Padding and Truncating Sequences
+Task 5: Preparing Labels
 
-Task 6: Preparing Labels
+Task 6: Creating the Model
 
-Task 7: Creating the Model
+Task 7: Training the Model
 
-Task 8: Training the Model
-
-Task 9: Evaluating the Model 
+Task 8: Evaluating the Model 
